@@ -1,7 +1,7 @@
 Mathematician (multidimensional symbolic dynamics) currently working on AI and formal methods for mathematics and applications to blockchain and smart contracts.
 You can find a list of my publications [here](https://scholar.google.com/citations?user=in4PMm0AAAAJ&hl=fr). Additionally, I have written philosophical essays that you can find [there](https://philarchive.org/s/Silvere%20Gangloff).
 
-My work organizes into three layers, plus a domain anchor:
+My work here organizes into three layers, plus a domain anchor:
 
 1. **Research** — empirical studies of how mathematical knowledge is organized and how language models reason about it.
 2. **Research × Engineering** — [`math-reasoning-tools`](https://github.com/Sfgangloff/math-reasoning-tools) sits at this boundary, simultaneously developing a model of mathematical reasoning and a concrete MCP-server implementation for Claude Code.
