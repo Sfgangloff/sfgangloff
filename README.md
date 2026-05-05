@@ -1,8 +1,6 @@
-# master
+Mathematician (multidimensional symbolic dynamics) working on AI and formal methods for mathematics and applications to blockchain and smart contracts.
 
-This repository is a map of my public work. **Main direction: AI for mathematics** — building tools, empirical understanding, and reasoning models that connect AI systems with mathematical practice.
-
-The work organizes into three layers, plus a domain anchor:
+My work organizes into three layers, plus a domain anchor:
 
 1. **Research** — empirical studies of how mathematical knowledge is organized and how language models reason about it.
 2. **Research × Engineering** — [`math-reasoning-tools`](https://github.com/Sfgangloff/math-reasoning-tools) sits at this boundary, simultaneously developing a model of mathematical reasoning and a concrete MCP-server implementation for Claude Code.
