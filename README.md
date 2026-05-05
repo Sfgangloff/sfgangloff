@@ -88,8 +88,3 @@ flowchart TB
 
 - [`oOo0oOo/lean-lsp-mcp`](https://github.com/oOo0oOo/lean-lsp-mcp) — upstream contributions for Lean-related MCP tooling (the canonical Lean MCP). My own [`math-reasoning-tools`](https://github.com/Sfgangloff/math-reasoning-tools) is positioned to be complementary, focused on non-Lean tools.
 
-## Current focus
-
-<!-- 3–5 bullets, updated periodically. Suggestion: keep these short and dated so the README ages gracefully. -->
-
-- _add a bullet here_
