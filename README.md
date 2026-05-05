@@ -1,4 +1,5 @@
-Mathematician (multidimensional symbolic dynamics) working on AI and formal methods for mathematics and applications to blockchain and smart contracts.
+Mathematician (multidimensional symbolic dynamics) currently working on AI and formal methods for mathematics and applications to blockchain and smart contracts.
+You can find a list of my publications [here](https://scholar.google.com/citations?user=in4PMm0AAAAJ&hl=fr). Additionally, I have written philosophical essays that you can find [there](https://philarchive.org/s/Silvere%20Gangloff).
 
 My work organizes into three layers, plus a domain anchor:
 
