@@ -83,4 +83,6 @@ flowchart TB
 ## External contributions
 
 - [`oOo0oOo/lean-lsp-mcp`](https://github.com/oOo0oOo/lean-lsp-mcp) — upstream contributions for Lean-related MCP tooling (the canonical Lean MCP). My own [`math-reasoning-tools`](https://github.com/Sfgangloff/math-reasoning-tools) is positioned to be complementary, focused on non-Lean tools.
+- [`google-deepmind/formal-conjectures`](https://github.com/google-deepmind/formal-conjectures) — formalizing conjectures in Lean 4.
+- [`leanprover-community/mathlib4`](https://github.com/leanprover-community/mathlib4) — contributing basic library content for symbolic dynamics.
 
